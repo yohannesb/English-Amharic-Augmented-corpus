@@ -17,10 +17,10 @@ This repository provides an augmented English–Amharic parallel corpus, designe
     * Multiple versions of the augmented corpus were generated to explore different augmentation parameters (e.g., deletion probability, swapping range).
     
 # Corpus Statistics
-    | Language | Original Sentences | Augmented Sentences | Total Sentences | Encoding |
+| Language | Original Sentences | Augmented Sentences | Total Sentences | Encoding |
 | -------- | -----------------: | ------------------: | --------------: | -------- |
 | English  |            225,304 |             225,304 |         450,608 | UTF-8    |
-| Amharic  |            225,304 |             225,304 |         450,608| UTF-8    |
+| Amharic  |            225,304 |             225,304 |         450,608| UTF-8     |
 
 
 @inproceedings{biadgligne2022offline,
