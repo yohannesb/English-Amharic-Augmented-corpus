@@ -29,7 +29,9 @@ This repository provides an augmented English–Amharic parallel corpus, designe
 | Amharic  |            225,304 |             225,304 |         450,608| UTF-8     |
 
 
-
+## Citation
+  If you use this corpus in your research, please cite the following work:
+  
 **BibTeX**
 
 ```bibtex
