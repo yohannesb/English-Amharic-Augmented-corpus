@@ -1,7 +1,7 @@
 # English-Amharic-Augmented-corpus
 This repository provides an augmented English–Amharic parallel corpus, designed to improve machine translation performance for this low-resource language pair. The augmentation approach follows the methodology described in Biadgligne & Smaïli, 2022, and incorporates the following processes:
 
-# Corpus Description
+## Corpus Description
 **1. Base Corpus Collection**
    * A parallel English–Amharic corpus was collected from web sources, news articles, and legal documents.
    * The raw sentences were preprocessed and cleaned to ensure high-quality alignment.
@@ -22,7 +22,7 @@ This repository provides an augmented English–Amharic parallel corpus, designe
   * Multiple versions of the augmented corpus were generated to explore different augmentation parameters (e.g., deletion probability, swapping range).
   
     
-# Corpus Statistics
+## Corpus Statistics
 | Language | Original Sentences | Augmented Sentences | Total Sentences | Encoding |
 | -------- | -----------------: | ------------------: | --------------: | -------- |
 | English  |            225,304 |             225,304 |         450,608 | UTF-8    |
