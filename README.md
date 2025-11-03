@@ -23,15 +23,22 @@ This repository provides an augmented English–Amharic parallel corpus, designe
 | Amharic  |            225,304 |             225,304 |         450,608| UTF-8     |
 
 
+
+**BibTeX**
+
+```bibtex
 @inproceedings{biadgligne2022offline,
-  title        = {Offline Corpus Augmentation for English-Amharic Machine Translation},
-  author       = {Biadgligne, Yohannes and Sma{\"i}li, Kamel},
-  booktitle    = {ICICT CPS Conference Proceedings},
-  year         = {2022},
-  organization = {IEEE}
+     title        = {Offline Corpus Augmentation for English-Amharic Machine Translation},
+     author       = {Biadgligne, Yohannes and Sma{\"i}li, Kamel},
+     booktitle    = {ICICT CPS Conference Proceedings},
+     year         = {2022},
+     organization = {IEEE}
 }
+```
 
+**APA Style**
 
-
+```text
 Biadgligne, Y., & Smaïli, K. (2022). Offline corpus augmentation for English–Amharic machine translation. In ICICT CPS Conference Proceedings. IEEE.
+```
 
