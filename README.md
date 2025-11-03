@@ -3,8 +3,9 @@ This repository provides an augmented English–Amharic parallel corpus, designe
 
 # Corpus Description
 **1. Base Corpus Collection**
-    * A parallel English–Amharic corpus was collected from web sources, news articles, and legal documents.
-    * The raw sentences were preprocessed and cleaned to ensure high-quality alignment.
+   * A parallel English–Amharic corpus was collected from web sources, news articles, and legal documents.
+   * The raw sentences were preprocessed and cleaned to ensure high-quality alignment.
+
 
 **2. Offline Corpus Augmentation**
     * Several augmentation operations were applied to the transliterated corpus:
