@@ -8,12 +8,14 @@ This repository provides an augmented English–Amharic parallel corpus, designe
 
 
 **2. Offline Corpus Augmentation**
-    * Several augmentation operations were applied to the transliterated corpus:
-        - Token-level insertion
-        - Token-level replacement
-        - Token-level deletion
-        - Token-level swapping
-    * Augmented sentences were filtered using semantic similarity metrics (cosine similarity) to ensure that each augmented sentence retained at least ~90% of the original semantic content.
+* Several augmentation operations were applied to the transliterated corpus:
+    - Token-level insertion
+    - Token-level replacement
+    - Token-level deletion
+    - Token-level swapping
+    
+* Augmented sentences were filtered using semantic similarity metrics (cosine similarity) to ensure that each augmented sentence retained at least ~90% of the original semantic content.
+  
 
 **3. Augmented Corpus Assembly**
     * The original corpus and the validated augmented sentences were combined to form a larger, enriched training dataset.
