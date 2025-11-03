@@ -18,8 +18,9 @@ This repository provides an augmented English–Amharic parallel corpus, designe
   
 
 **3. Augmented Corpus Assembly**
-    * The original corpus and the validated augmented sentences were combined to form a larger, enriched training dataset.
-    * Multiple versions of the augmented corpus were generated to explore different augmentation parameters (e.g., deletion probability, swapping range).
+  * The original corpus and the validated augmented sentences were combined to form a larger, enriched training dataset.
+  * Multiple versions of the augmented corpus were generated to explore different augmentation parameters (e.g., deletion probability, swapping range).
+  
     
 # Corpus Statistics
 | Language | Original Sentences | Augmented Sentences | Total Sentences | Encoding |
